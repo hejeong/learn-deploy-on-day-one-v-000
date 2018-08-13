@@ -165,7 +165,9 @@ a:visited {
 #jonathan-hong-card {
  background-image: url("https://imgur.com/7vSKSv3");
 }
-
+#jonathan-hong-cover {
+  background-image: url("");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
